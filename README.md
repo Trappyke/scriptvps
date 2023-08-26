@@ -97,7 +97,7 @@ rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ip
 
  ### Server Information & Other Features
 
-• Timezone                : Asia/Jakarta (GMT +7)
+• Timezone                : Africa/Nairobi (GMT +3)
 
 • Fail2Ban                : [ON]
 
@@ -125,4 +125,4 @@ rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ip
 ------------
 **Telegram**
 ------------
-[Senovpn](https://t.me/senovpn)
+[Tracertech vpn](https://t.me/Tracertech)
